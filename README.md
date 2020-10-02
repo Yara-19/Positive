@@ -9,7 +9,7 @@ Information about me ( Yara Sholi)
 </titel>
 
 <h1 style="color:crimson;"> Name : Yara Mohammad Sholi </h1>
-
+<img src="img_girl.jpg" alt="Girl in a jacket" width="300" height="400">
 <h3 style="color:crimson;"> General information : </h3>
 
 <p> I am 19 years old <br>  I studing Network & Information Security in Najah National University <br>
@@ -27,7 +27,7 @@ I studied highe school in Jawahar Lal Nehru High school <br> Currently, I am stu
   <a href="https://www.facebook.com/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%AC%D9%88%D8%A7%D9%87%D8%B1-%D9%84%D8%A7%D9%84-%D9%86%D9%87%D8%B1%D9%88-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D9%86%D8%A7%D8%AA%D8%B9%D8%B5%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-649433788437704">
   This is the link to visit my high school <br> </a>
 
- <img src ="pic_trulli.jpg" alt=" Jawahar Lal Nehru High school " width="120" hieght = "140" > 
+ 
 <h3 style="color:crimson;" > My work experiences : </h3>
 
 <p> I don't have any work experiences :) </p>

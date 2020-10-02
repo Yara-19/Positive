@@ -1,22 +1,14 @@
 # Positive
 My Personal Website
-
 <!DOCTYPE html>
 <html>
 <body style="background-color:azure;">
+ 
 
 <h1 style="color:crimson;"> welcome in my page :) </h1>
 
 <p> In this page you can just know about my information to right now so : </p>
 
-
-
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<body style="background-color:azure;">
 
 <titel>
 Information about me ( Yara Sholi)

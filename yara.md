@@ -7,9 +7,9 @@ My Personal Website
 
 <h1 style="color:crimson;"> welcome in my page :) </h1>
 
-<p> In this page you can just know about my information to right now so <br>
- If you want to know this information please click here :  </p>
-<a href="file:///C:/Users/basem/Desktop/Yara.html"> My information <br ></a>
+<p> In this page you can just know about my information to right now so : </p>
+
+
 
 </body>
 </html>

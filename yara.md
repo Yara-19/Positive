@@ -1,8 +1,8 @@
 # Yara Sholi
 My Personal Website
-
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
+  
 <body style="background-color: azure;text-align: center">
 
     <h1 style="color: crimson; font-family: 'Comic Sans MS';text-align: center"> welcome in my page :) </h1>

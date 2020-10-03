@@ -39,7 +39,8 @@ I studied highe school in Jawahar Lal Nehru High school <br> Currently, I am stu
 
 <p> I don't have any work experiences :) </p>
 
-<h3 style="color:crimson;">
+<h3 style="color:crimson;"> My hobbies : </h3>
+<p>  Reading <br> Playing video games </p>
 
 <img src="Web photo/web.jpg" alt="photo o beautiful caption " width="600" height="400">
 </body>

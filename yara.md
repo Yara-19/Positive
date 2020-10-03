@@ -15,7 +15,9 @@ Information about me ( Yara Sholi)
 </titel>
 
 <h1 style="color:crimson;"> Name : Yara Mohammad Sholi </h1>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="300" height="400">
+
+<img src="" alt="Girl in a jacket" width="300" height="400">
+
 <h3 style="color:crimson;"> General information : </h3>
 
 <p> I am 19 years old <br>  I studing Network & Information Security in Najah National University <br>

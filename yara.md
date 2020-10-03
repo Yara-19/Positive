@@ -41,6 +41,6 @@ I studied highe school in Jawahar Lal Nehru High school <br> Currently, I am stu
 
 <h3 style="color:crimson;">
 
-<img src="Web photo/web.jpg" alt="photo o fbeautiful caption " width="600" height="400">
+<img src="Web photo/web.jpg" alt="photo o beautiful caption " width="600" height="400">
 </body>
 </html>
